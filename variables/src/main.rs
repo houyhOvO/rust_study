@@ -10,6 +10,7 @@ fn main() {
     println!("The value of x is: {x}");
 
     const THREE_HOURS_IN_SECONDS: u32 = 60 * 60 * 3; // declare a constant
+    println!("The value of THREE_HOURS_IN_SECONDS is: {THREE_HOURS_IN_SECONDS}");
 
     let y = 5;
     let y = y + 1;
